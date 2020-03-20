@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/basescratch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/buildcustom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/buildtime-runtime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-polls" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/djangoimage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dockerfile-arg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/entrypoint-cmd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multistage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myfirst" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reusable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple-flask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simpletests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/smaller" vcs="Git" />
+  </component>
+</project>
